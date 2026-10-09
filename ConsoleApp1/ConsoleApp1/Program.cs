@@ -20,7 +20,7 @@ Console.WriteLine(passenger1.IsChild());
 Console.WriteLine(passenger2.IsChild());
 ﻿// Egyik
 
-using ConsoleApp1;
+
 
 Flight flight1 = new Flight("Szia", "Mia", 122000, 3);
 Flight flight2 = new Flight("Szia", "Mia", 122000, 1);
